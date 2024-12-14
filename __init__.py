@@ -1,3 +1,9 @@
-from .IBeatmap import IBeatmap
-from .IReplay import IReplay
-from .IHitobject import IHitobject
+from .src.IBeatmap import IBeatmap
+from .src.IHitobject import IHitobject
+from .src.IReplay import IReplay
+
+__all__ = [
+    'IBeatmap',
+    'IHitobject',
+    'IReplay'
+]

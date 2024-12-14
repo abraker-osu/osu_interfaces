@@ -1,1 +1,3 @@
 *.pyc
+/osu_interfaces.egg-info/*
+.vscode/settings.json
