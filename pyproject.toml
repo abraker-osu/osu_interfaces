@@ -16,9 +16,6 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/abraker-osu/osu_interfaces"
 
-[tool.setuptools]
-packages = [ "osu_interfaces" ]
-
 [tool.setuptools.package-dir]
 osu_interfaces = "src"
 
