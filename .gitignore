@@ -1,0 +1,2 @@
+*.pyc
+/osu_interfaces.egg-info/*
